@@ -1,0 +1,42 @@
+.flex-box{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    width: 300px;
+    height: 300px;
+border: 2px solid black;
+}
+.p{
+    font-family: "Felix Titling";
+    font-size: 25px;
+}
+.pov{
+padding: 10px 0;
+}
+p{
+    font-size: 20px
+}
+.btn{
+width: 165px;
+    color: white;
+    background-color: blue;
+    border-radius:10px ;
+    margin-top: 10px;
+}
+.box{
+    display: flex;
+    width: 300px;
+    height: 50px;
+    border: 2px solid black;
+    margin-top: 10px;
+}
+.pp{
+    font-size: 15px;
+}
+.flex-href{
+    padding: 15px 1px;
+}
+.password{
+    margin-top: 5px;
+}
+
